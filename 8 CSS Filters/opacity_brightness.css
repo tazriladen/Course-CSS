@@ -1,0 +1,4 @@
+.very_bright {
+    filter: brightness(150%);
+    border-radius: 50%;
+}

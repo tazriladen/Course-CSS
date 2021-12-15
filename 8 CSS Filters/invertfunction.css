@@ -1,0 +1,3 @@
+.fully_inverted {
+    filter: invert(100%);
+}

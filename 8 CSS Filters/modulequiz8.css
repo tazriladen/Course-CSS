@@ -1,0 +1,7 @@
+.filtered {
+    filter: hue-rotate(80deg);
+}
+
+.modified {
+    filter: saturate(55%) invert(70%);
+}

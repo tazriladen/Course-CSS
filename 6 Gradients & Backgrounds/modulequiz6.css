@@ -1,0 +1,14 @@
+.test {
+    background: radial-gradient(50px 50px, red 15px, blue 25px);
+}
+
+#element {
+    background-image: url("1.png");
+    background-size: 100px 100px;
+    opacity: 0.5;
+}
+
+div {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}

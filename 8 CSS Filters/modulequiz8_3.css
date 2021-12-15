@@ -1,0 +1,10 @@
+.filtered {
+    filter: blur(5px) brightness(110%);
+}
+
+img {
+    border-radius: 50%;
+    filter: sepia(30%) drop-shadow(5px 9px 2px red) blur(1px);
+    width: 100px;
+    height: 100px;
+}

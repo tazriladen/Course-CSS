@@ -1,0 +1,14 @@
+body {
+    background-image: url("1.png");
+    background-repeat: repeat-x;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+    cursor: crosshair;
+}
+
+a {
+    cursor: crosshair;
+}

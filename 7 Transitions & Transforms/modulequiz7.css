@@ -1,0 +1,7 @@
+#ball {
+    transform: rotate(-45deg);
+}
+
+p {
+    transform: rotate(180deg);
+}

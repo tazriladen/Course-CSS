@@ -1,0 +1,4 @@
+#avatar .deactivated {
+    filter: saturate(30%) drop-shadow(5px 9px 2px gray);
+    border-radius: 50%;
+}

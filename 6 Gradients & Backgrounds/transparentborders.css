@@ -1,0 +1,4 @@
+.test {
+    background-clip: padding-box;
+    border: 20px solid rgba(0, 0, 0, 0.3);
+}
